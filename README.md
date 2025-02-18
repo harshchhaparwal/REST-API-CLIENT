@@ -10,7 +10,7 @@
 
 *MENTOR*: MUZAMMIL AHMED 
 
-DESCRIPTION: 
+##DESCRIPTION: 
 
 Weather Fetcher – Java API Consumer
 Overview: The Weather Fetcher is a simple Java-based application that consumes real-time weather data from the OpenWeatherMap API. It makes an HTTP GET request to fetch the latest weather information for a given city, processes the received JSON response, and displays it in a structured format in the console.

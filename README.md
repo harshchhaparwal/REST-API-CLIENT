@@ -33,4 +33,4 @@ OpenWeatherMap API (Public REST API for weather data)
 JSON Processing (org.json library for parsing JSON)
 
 OUTPUT: 
-![Screenshot 2025-02-17 180135](https://github.com/user-attachments/assets/7ebacf9e-86f9-43ab-aa73-1bc3aca84a21)
+![Screenshot 2025-02-18 142159](https://github.com/user-attachments/assets/688faeb1-e875-477b-ad48-999fab31a5d6)
